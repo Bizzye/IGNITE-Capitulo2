@@ -26,4 +26,9 @@ export const Container = styled.main`
             line-height: 3rem;
         }
     }
+
+    .highlight-background{
+        color: white;
+        background: var(--green);
+    }
 `
